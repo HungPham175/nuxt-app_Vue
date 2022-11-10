@@ -1,5 +1,5 @@
 <template>
-  <div flex>
+  <div flex class="">
     <!-- <NuxtWelcome /> -->
     <NuxtPage/>
   </div>
