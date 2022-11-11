@@ -1,6 +1,6 @@
 <template >
-    <div class=" relative">
-        <div class="w-2/4">
+    <div class="relative border flex flex-col">
+        <div class="w-2/4 ">
             <img src="../public/Watch-Phone.png" alt="" class="absolute top-0 -left-[12%]">
         </div>
         <div class="w-2/4 absolute py-[7%] -right-[5%]">

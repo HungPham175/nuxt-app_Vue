@@ -35,6 +35,7 @@ body {
  */
 
 main {
+  /* font-family:'Averta','BlinkMacSystemFont','Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif; */
   display: block;
 }
 
@@ -353,4 +354,37 @@ template {
 [hidden] {
   display: none;
 }
+p{
+  padding: 0;
+  margin: 0;
+}
+.btn{
+  outline: none;
+  background-color: transparent;
+  border: 0;
+}
+.bg-light-blue{
+  background-color:#7fb2ff;
+}
+.text-34{
+  font-size: 34px;
+}
+.flex-row-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.w-281{
+  width: 28.125rem;
+}
+.w-238{
+  width:23.875rem ;
+}
+.span-center{
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+}
+
 </style>
