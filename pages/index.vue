@@ -1,8 +1,38 @@
 <template>
-    <div class="
-                w-19/20 max-w-[1200px] mx-auto font-sans ">
+    <div class="w-19/20 max-w-[1200px] mx-auto font-sans ">
         <Nav />
+        <div class="flex md:justify-between lt-md:flex-col relative z-1">
         <Content />
-        <MoneyFrom/>
+        <MoneyLeft/>
     </div>
+    <div class="relative z-8">
+    <img src="../public/message.png" class="w-[12rem] fixed bottom--12 right--12 z-99"/>
+    </div>
+    <!-- dùng tranform 50/50  -->
+        <div class="lt-md:hidden absolute top-[8rem] right-[40rem] z-0">
+            <img src="../public/Ellipse 2.png" alt="" class="blur-[150px]">
+        </div>
+        
+        <div class="relative lt-md:top-[12rem]">
+        <Message />
+        </div>
+    </div>
+    
 </template>
+<script>
+
+</script>
+<style>
+.top--6
+{
+    top: -6rem;
+}
+.btn-c{
+    bottom: 20px;
+  right: 30px;
+  z-index: 99;
+
+
+  cursor: pointer;
+}
+</style>

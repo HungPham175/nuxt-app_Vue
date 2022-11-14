@@ -1,6 +1,6 @@
 <template>
     <div class="">
-    <div class="backdrop-blur-[42px] w-[450px] lt-md:w-[230px]
+    <div class="backdrop-blur-[50px] w-[450px] lt-md:w-[230px]
         p-8 rounded-6 border-white border-2 absolute top-[61px] left-[100px] 
         lt-md:items-center lt-md:left-[25px] lt-md:top-[80px] lt-md:p-4
         ">

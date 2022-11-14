@@ -358,6 +358,7 @@ p{
   padding: 0;
   margin: 0;
 }
+/* FormMoney */
 .btn{
   outline: none;
   background-color: transparent;
@@ -375,16 +376,17 @@ p{
   align-items: center;
   flex-direction: row;
 }
-.w-281{
-  width: 28.125rem;
-}
-.w-238{
-  width:23.875rem ;
-}
+
 .span-center{
-  /* display: flex; */
   justify-content: center;
   align-items: center;
 }
+.w-281 {
+    width: 28.125rem;
+}
 
+/* .lt-md:w-238 {
+    width: 23.875rem !important;
+} */
+/* End FormMoney */
 </style>
