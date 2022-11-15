@@ -9,7 +9,7 @@
                 <p class="font-bold text-[34px] lt-md:text-xl">Hãy để chúng tôi làm điều đó giúp bạn và những người thân yêu</p>
             </div>
             <div class="md:hidden flex justify-center">
-                <img src="../public/Watch-Phone.png" alt="" class="w-[120%]">
+                <img src="../public/Watch-Phone.png" alt="" class="w-[90%]">
             </div>
             <div>
                 <p class="font-semibold text-xl pt-[64px] lt-md:pt-2 lt-md:text-sm">Chuyển đổi tiền với mệnh giá thấp nhất</p>

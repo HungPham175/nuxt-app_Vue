@@ -41,11 +41,13 @@
                 <p>100.000.000 AUD</p>
             </div>
             <div class="pt-6 flex justify-end">
-                <button class="btn bg-yellow-btn py-3 rounded-12 p-12 shadows-yellow">Chuyển tiền</button>
+                <button class="btn bg-yellow-btn py-3 rounded-12 p-12 shadows-yellow ">Chuyển tiền</button>
             </div>
         </div>
+        <div class="h-"></div>
     </div>
 </template>
+
 <script>
 export default {
 
