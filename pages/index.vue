@@ -1,8 +1,8 @@
 <template>
     <div class="w-19/20 max-w-[1200px] mx-auto font-sans">
         <Nav />
-        <div class=""> </div>
-        <!-- <div class="flex md:justify-between lt-md:flex-col relative z-1">
+        <!-- <div class=""> </div>
+        <div class="flex md:justify-between lt-md:flex-col relative z-1">
             <Content />
             <MoneyLeft />
         </div>
@@ -17,6 +17,7 @@
             <Message />
         </div> -->
         <MainTable/>
+        <MainSale/>
     </div>
 
 </template>
