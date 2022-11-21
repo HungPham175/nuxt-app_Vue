@@ -32,6 +32,6 @@
     "className",
     "ngClass"
 ],
-"packageManager": "pnpm@7.14.1"
+"packageManager": "pnpm@7.13.4"
 }
 
