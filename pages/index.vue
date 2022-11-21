@@ -11,7 +11,7 @@
         </div>
         <!-- dùng tranform 50/50  -->
         <div class="lt-md:hidden absolute top-[8rem] right-[40rem] z-0">
-            <img src="../public/Ellipse 2.png" alt="" class="blur-[150px]">
+            <img src="../public/Ellipse2.png" alt="" class="blur-[150px]">
         </div>
         <div class="relative lt-md:top-[12rem]">
             <Message />
