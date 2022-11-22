@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-transparent flex justify-center items-center md:w-281 w-238 lt-md:absolute lt-md:top-15">
-        <div class="bg-shadow-blur backdrop-blur-[50px] md:w-281 w-238 p-8 lt-md:p-5 lt-md:p-4  border border-white rounded-12 md:absolute md:top-[3.4rem]">
+    <div class="flex justify-center items-center md:w-281 w-238 lt-md:absolute lt-md:top-15">
+        <div class="bg-shadow-blur backdrop-blur-[50px] w-281 lt-md:w-full p-8 lt-md:p-5 lt-md:p-4  border border-white rounded-12 lt-md:rounded-6 md:absolute md:top-[3.4rem]">
             <div class="pb-6">
                 <ButtonMoney />
             </div>
@@ -41,10 +41,9 @@
                 <p>100.000.000 AUD</p>
             </div>
             <div class="pt-6 flex justify-end">
-                <button class="btn bg-yellow-btn py-3 rounded-12 p-12 shadows-yellow ">Chuyển tiền</button>
+                <button class="btn shadows-yellow py-3 rounded-12 p-12 cursor-pointer bg-yellow-300 hover:bg-yellow-500">Chuyển tiền</button>
             </div>
         </div>
-        <div class="h-"></div>
     </div>
 </template>
 
@@ -58,9 +57,7 @@ export default {
     display: flex;
     justify-content: space-between;
 }
-.bg-yellow-btn{
-    background-color: #FFD530 !important;
-}
+
 .shadows-yellow{
    box-shadow: 4px 8px 48px rgba(255, 220, 94, 0.8)
 }

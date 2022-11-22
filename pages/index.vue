@@ -7,7 +7,8 @@
             <MoneyLeft />
         </div>
         <div class="relative z-8">
-            <img src="../public/message.png" class="w-[12rem] lt-md:w-[9rem] fixed bottom--6 right-0 z-99" />
+            <!-- <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-75"></span> -->
+            <img src="../public/message.png" class="w-[12rem] lt-md:w-[9rem] fixed bottom--6 right-0 z-99  " />
         </div>
         <!-- dùng tranform 50/50  -->
         <div class="lt-md:hidden absolute top-[8rem] right-[40rem] z-0">
@@ -41,4 +42,5 @@
     z-index: 99;
     cursor: pointer;
 }
+
 </style>

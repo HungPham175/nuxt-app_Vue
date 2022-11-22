@@ -361,7 +361,6 @@ p{
 /* FormMoney */
 .btn{
   outline: none;
-  background-color: transparent;
   border: 0;
 }
 .bg-light-blue{
